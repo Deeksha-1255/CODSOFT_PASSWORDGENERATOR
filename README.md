@@ -40,8 +40,7 @@ This project is licensed under the MIT License -
 
 ### Contact
 
-
+ For questions or feedback, open an issue on GitHub or contact me at deeksha190904@gmail.com.
 
 ---
 
-Feel free to adjust the details according to the actual features and requirements of your password generator.
